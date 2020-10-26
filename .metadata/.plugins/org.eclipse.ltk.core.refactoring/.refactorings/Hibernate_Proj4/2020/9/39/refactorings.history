@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;org.jsp.hbernateApp.Game&apos; to &apos;Boy&apos;&#x0D;&#x0A;- Original project: &apos;Hibernate_Proj4&apos;&#x0D;&#x0A;- Original element: &apos;org.jsp.hbernateApp.Game&apos;&#x0D;&#x0A;- Renamed element: &apos;org.jsp.hbernateApp.Boy&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Game&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;org.jsp.hbernateApp{Game.java[Game" matchStrategy="1" name="Boy" qualified="false" references="true" similarDeclarations="false" stamp="1600710644203" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;$Interview_2org.rai.InterviewApp&apos; to &apos;org.rai.InterviewApp&apos;&#x0D;&#x0A;- Original project: &apos;$Interview_2&apos;&#x0D;&#x0A;- Original element: &apos;$Interview_2/src/$Interview_2org.rai.InterviewApp&apos;&#x0D;&#x0A;- Renamed element: &apos;$Interview_2/src/org.rai.InterviewApp&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;$Interview_2org.rai.InterviewApp&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;$Interview_2org.rai.InterviewApp" name="org.rai.InterviewApp" qualified="false" references="true" stamp="1602091266172" textual="false" version="1.0"/>
+</session>
